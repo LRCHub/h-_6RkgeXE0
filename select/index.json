@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Licorice",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-25T05:57:24.064069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Salt Licorice (with Robyn)",
+      "artist": "Jónsi feat. Robyn",
+      "has_synced": true,
+      "path": "select/01_Salt_Licorice_(with_Robyn)_Jónsi_feat._Robyn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Salt Licorice (with Robyn)",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/02_Salt_Licorice_(with_Robyn)_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That Black Bat Licorice",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/03_That_Black_Bat_Licorice_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That Black Bat Licorice",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/04_That_Black_Bat_Licorice_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Licorice",
+      "artist": "Peach Pit",
+      "has_synced": true,
+      "path": "select/05_Black_Licorice_Peach_Pit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cherry Licorice",
+      "artist": "The Felice Brothers",
+      "has_synced": true,
+      "path": "select/06_Cherry_Licorice_The_Felice_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Maple Licorice",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/07_Maple_Licorice_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Salt Licorice",
+      "artist": "Jónsi with Robyn",
+      "has_synced": true,
+      "path": "select/08_Salt_Licorice_Jónsi_with_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Salt Licorice",
+      "artist": "Jónsi",
+      "has_synced": true,
+      "path": "select/09_Salt_Licorice_Jónsi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Licorice",
+      "artist": "Girls Rituals",
+      "has_synced": false,
+      "path": "select/10_Black_Licorice_Girls_Rituals.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Licorice",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/11_Licorice_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That Black Bat Licorice",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/12_That_Black_Bat_Licorice_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That Black Bat Licorice",
+      "artist": "White, Jack",
+      "has_synced": true,
+      "path": "select/13_That_Black_Bat_Licorice_White,_Jack.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That Black Bat Licorice",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/14_That_Black_Bat_Licorice_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Licorice",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/15_Licorice_aespa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Licorice",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Licorice_aespa.txt"
+    }
+  ]
+}
